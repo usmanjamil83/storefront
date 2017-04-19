@@ -13,8 +13,8 @@
   "author": "usman jamil",
   "license": "ISC",
   "dependencies": {
-    "mysql": "^2.11.1",
-    "inquirer": "^1.2.2"
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
   },
   "bugs": {
     "url": "https://github.com/usmanjamil83/storefront_mini/issues"
