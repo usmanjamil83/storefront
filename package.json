@@ -1,0 +1,23 @@
+{
+  "name": "storefront_mini",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront with the MySQL skills",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmanjamil83/storefront_mini.git"
+  },
+  "author": "usman jamil",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "inquirer": "^1.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/usmanjamil83/storefront_mini/issues"
+  },
+  "homepage": "https://github.com/usmanjamil83/storefront_mini#readme"
+}
